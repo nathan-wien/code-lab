@@ -1,5 +1,6 @@
 # TODO
 
+- [ ] Get comfy with VSCode
 - [ ] Material Design
 - [ ] [Testing](https://flutter.dev/docs/testing)
   - [ ] Unit testing
