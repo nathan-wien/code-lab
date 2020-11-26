@@ -1,8 +1,10 @@
 # TODO
 
-- [ ] Get comfy with VSCode
-- [ ] Material Design
-- [ ] State management
+- [x] Get comfy with VSCode
+- [x] Material Design Walkthrough: with Codelabs MDC tutorials
+- [x] State management
+- [x] Navigation
+- [ ] Asynchronous programming
 - [ ] [Testing](https://flutter.dev/docs/testing)
   - [ ] Unit testing
   - [ ] Widget testing
