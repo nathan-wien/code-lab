@@ -11,10 +11,21 @@ Cross-platform mobile development framework.
 
 ## Topics
 
-### Topics that are actually helpful
+### Theming
+
+- [Create an app theme - Flutter Doc Cookbook](https://flutter.dev/docs/cookbook/design/themes#creating-an-app-theme)
+- [Use a custom font - Flutter Doc Cookbook](https://flutter.dev/docs/cookbook/design/fonts#1-import-the-font-files)
+
+### Asynchronous Programming
 
 - [Asynchronous Programming in Dart](https://dart.dev/codelabs/async-await)
+
+### State Management
+
 - [State Management](https://flutter.dev/docs/development/data-and-backend/state-mgmt)
+
+### Navigation & Routing
+
 - [Navigation & Routing](https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade)
 
 ### Editing
