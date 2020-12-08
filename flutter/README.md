@@ -28,7 +28,10 @@ Cross-platform mobile development framework.
 
 - [Navigation & Routing](https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade)
 
+### Networking
+
+- [Fetch data from the internet - Flutter Doc Cookbook](https://flutter.dev/docs/cookbook/networking/fetch-data)
+
 ### Editing
 
 - [Editing tips for VSCode](https://flutter.dev/docs/development/tools/vs-code#editing-tips-for-flutter-code) - Flutter Doc
-
