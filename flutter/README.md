@@ -11,10 +11,9 @@ Cross-platform mobile development framework.
 
 ## Topics
 
-### Theming
+### Widgets
 
-- [Create an app theme - Flutter Doc Cookbook](https://flutter.dev/docs/cookbook/design/themes#creating-an-app-theme)
-- [Use a custom font - Flutter Doc Cookbook](https://flutter.dev/docs/cookbook/design/fonts#1-import-the-font-files)
+- [Flutter Widgets 101 Youtube Playlist - Google Developers](https://youtube.com/playlist?list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd)
 
 ### Asynchronous Programming
 
@@ -35,3 +34,13 @@ Cross-platform mobile development framework.
 ### Editing
 
 - [Editing tips for VSCode](https://flutter.dev/docs/development/tools/vs-code#editing-tips-for-flutter-code) - Flutter Doc
+
+### Material Design
+
+- [Material Components widgets](https://flutter.dev/docs/development/ui/widgets/material)
+
+### Theming
+
+- [Create an app theme - Flutter Doc Cookbook](https://flutter.dev/docs/cookbook/design/themes#creating-an-app-theme)
+- [Use a custom font - Flutter Doc Cookbook](https://flutter.dev/docs/cookbook/design/fonts#1-import-the-font-files)
+
