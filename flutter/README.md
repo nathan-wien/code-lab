@@ -9,15 +9,26 @@ Cross-platform mobile development framework.
 - [Flutter Doc](https://flutter.dev)
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter) by @Solido
 
-## Topics
+
+## Dart Topics
+
+### Confusing stuff
+
+#### `final` vs `const`
+
+- [`final` and `const` - Dart Language Tour](https://dart.dev/guides/language/language-tour#final-and-const)
+
+### Asynchronous Programming
+
+- [Asynchronous Programming in Dart](https://dart.dev/codelabs/async-await)
+
+
+## Flutter Topics
 
 ### Widgets
 
 - [Flutter Widgets 101 Youtube Playlist - Google Developers](https://youtube.com/playlist?list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd)
 
-### Asynchronous Programming
-
-- [Asynchronous Programming in Dart](https://dart.dev/codelabs/async-await)
 
 ### State Management
 
@@ -26,6 +37,8 @@ Cross-platform mobile development framework.
 ### Navigation & Routing
 
 - [Navigation & Routing](https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade)
+- [Getting to the Bottom of Navigation in Flutter](https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386)
+  - How to persist app-bar and bottom-nav-bar with custom navigator
 
 ### Networking
 
