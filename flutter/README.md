@@ -40,6 +40,10 @@ Cross-platform mobile development framework.
 - [Getting to the Bottom of Navigation in Flutter](https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386)
   - How to persist app-bar and bottom-nav-bar with custom navigator
 
+### Forms
+
+- [Forms - Flutter Doc Cookbook](https://flutter.dev/docs/cookbook/forms)
+
 ### Networking
 
 - [Fetch data from the internet - Flutter Doc Cookbook](https://flutter.dev/docs/cookbook/networking/fetch-data)
