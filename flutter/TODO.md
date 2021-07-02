@@ -4,7 +4,8 @@
 - [x] Material Design Walkthrough: with Codelabs MDC tutorials
 - [x] State management
 - [x] Navigation
-- [ ] Asynchronous programming
+- [x] Asynchronous programming
+- [ ] Design Patterns
 - [ ] [Testing](https://flutter.dev/docs/testing)
   - [ ] Unit testing
   - [ ] Widget testing
